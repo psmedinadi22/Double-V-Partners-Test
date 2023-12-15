@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICORE", "APICORE.csproj", "{A11127B5-76AE-44D7-A722-7B65B938E73A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "..\DB\DB.csproj", "{707DB2C6-65B7-4183-8022-D153B902B5CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A11127B5-76AE-44D7-A722-7B65B938E73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11127B5-76AE-44D7-A722-7B65B938E73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11127B5-76AE-44D7-A722-7B65B938E73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11127B5-76AE-44D7-A722-7B65B938E73A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{707DB2C6-65B7-4183-8022-D153B902B5CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707DB2C6-65B7-4183-8022-D153B902B5CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707DB2C6-65B7-4183-8022-D153B902B5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707DB2C6-65B7-4183-8022-D153B902B5CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE01A118-FE7E-42C9-9792-D01FD997AB8B}
+	EndGlobalSection
+EndGlobal
